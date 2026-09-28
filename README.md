@@ -14,7 +14,7 @@ what you act on.
 - **Warm beside cool.** The page is mint-tinted paper, never pure white; the side panels
   are blush sand. Cards are a deeper mint, defined by colour layering alone — nothing casts
   a shadow.
-- **Three voices.** Tempora, a literary serif, for the title and the two largest headings;
+- **Three voices.** Clipboard Serif, a literary serif, for the title and the two largest headings;
   the platform's own sans for the text; a monospace in tracked capitals for section
   eyebrows — tags, table headers, callout titles, property names.
 - **One teal for actions.** Deep teal fills the main button, a checked task and a toggle;
@@ -46,10 +46,11 @@ Settings → Appearance → Themes.
 
 ## Font
 
-Tempora Regular (© 2015 Michael Sharpe, 2005 Alexey Kryukov, 1999 (URW)++ and others) is
-embedded in `theme.css` as base64 WOFF2 under the SIL Open Font License 1.1 — see
-[`fonts/OFL.txt`](fonts/OFL.txt). One weight, Latin and Cyrillic, for the title, the two
-largest headings and pull quotes only. The monospace is your platform's own.
+Clipboard Serif is embedded in `theme.css` as base64 WOFF2 under the SIL Open Font License
+1.1 — see [`fonts/OFL.txt`](fonts/OFL.txt). It is a Latin and Cyrillic subset of Doulos SIL
+(© 1994–2014 SIL International), renamed because a modified copy may not use the original's
+Reserved Font Names. One weight, for the title, the two largest headings and pull quotes
+only. The monospace is your platform's own.
 
 ## License
 
@@ -59,7 +60,7 @@ MIT — see [LICENSE](LICENSE).
 
 **По-русски.** Тема из коллекции Borozdov. Два лика: светлый «Мята» — полевые заметки
 исследователя на мятной бумаге, и тёмный «Гавань» — те же заметки у воды ночью. Розоватая
-боковая панель рядом с мятной страницей, литературный заголовок с засечками (Tempora),
+боковая панель рядом с мятной страницей, литературный заголовок с засечками (Clipboard Serif),
 моноширинные ярлыки и один глубокий бирюзовый для того, что вы делаете. Устанавливается из
 каталога: Настройки → Оформление → Темы → Настроить → Borozdov Clipboard → Установить и
 применить.

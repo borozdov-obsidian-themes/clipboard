@@ -159,7 +159,7 @@ eyebrow in the type's colour.</p></div>
 {callout("success", "check", "Done", "Forest for what is finished.")}
 {callout("warning", "triangle-alert", "Heads up", "Amber for what needs a look, red for real trouble.")}
 <div class="el-blockquote"><blockquote dir="auto"><p>Ask what they did, not what they would do.</p></blockquote></div>
-{table(["Face", "Role"], ["Tempora 400", "Title, the two largest headings, quotes"], ["Sans 400", "Body text"], ["Mono", "Eyebrows, tags and labels"])}
+{table(["Face", "Role"], ["Clipboard Serif 400", "Title, the two largest headings, quotes"], ["Sans 400", "Body text"], ["Mono", "Eyebrows, tags and labels"])}
 """
 
 NOTE_RU = f"""

@@ -26,9 +26,9 @@ House rules:
 - Colors come from the palette in section 1 of `theme.css`; nothing else holds a color
   literal.
 - A mint page beside a blush panel; deep teal for fills, pine for links, dusty rose for
-  tags, monospace capitals for labels. The only embedded font is Tempora Regular (the title
-  and the two largest headings): `fonts/*.woff2` are written into `theme.css` by
-  `npm run fonts`.
+  tags, monospace capitals for labels. The only embedded font is Clipboard Serif, a
+  renamed subset of Doulos SIL (the title and the two largest headings): `fonts/*.woff2`
+  are written into `theme.css` by `npm run fonts`.
 - The release ships `dist/theme.css` from `npm run build`: the same file without
   comments. The build fails on any lint problem.
 

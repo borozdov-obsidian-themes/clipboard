@@ -36,10 +36,14 @@ what you act on.
 
 ## Installation
 
-**From the community directory:** Settings → Appearance → Themes → Manage, search for
-**Borozdov Clipboard**, then **Install and use**.
+**From the community directory, as a variant:** this theme ships inside **Borozdov
+Palette**. Install Borozdov Palette under Settings → Appearance → Themes → Manage, then
+the [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin, and
+choose **Clipboard** under Style Settings → Borozdov Palette → Variant. The variant brings
+this theme's palette, type and corners; its own layout, and its embedded font if it has
+one, come with the full theme below.
 
-**By hand:** download `manifest.json` and `theme.css` from the
+**The full theme, by hand:** download `manifest.json` and `theme.css` from the
 [latest release](https://github.com/borozdov-obsidian-themes/clipboard/releases/latest) into
 `<vault>/.obsidian/themes/Borozdov Clipboard/`, then choose Borozdov Clipboard under
 Settings → Appearance → Themes.
@@ -61,6 +65,4 @@ MIT — see [LICENSE](LICENSE).
 **По-русски.** Тема из коллекции Borozdov. Два лика: светлый «Мята» — полевые заметки
 исследователя на мятной бумаге, и тёмный «Гавань» — те же заметки у воды ночью. Розоватая
 боковая панель рядом с мятной страницей, литературный заголовок с засечками (Clipboard Serif),
-моноширинные ярлыки и один глубокий бирюзовый для того, что вы делаете. Устанавливается из
-каталога: Настройки → Оформление → Темы → Настроить → Borozdov Clipboard → Установить и
-применить.
+моноширинные ярлыки и один глубокий бирюзовый для того, что вы делаете. В каталоге тема живёт вариантом Borozdov Palette: установите Borozdov Palette и плагин Style Settings, затем выберите Clipboard в Style Settings → Borozdov Palette → Variant. Целиком, со своей вёрсткой, тема ставится вручную из последнего релиза репозитория.
